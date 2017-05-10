@@ -1,2 +1,2 @@
 # Git Demo 2
-## git is cool
+## git is really cool
